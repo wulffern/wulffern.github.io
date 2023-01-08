@@ -30,8 +30,10 @@ show_excerpts: false
 
 future: true
 
+remote_theme: jekyll/minima
+
 minima:
-  skin: classic
+  skin: auto
 
   social_links:
     - { platform: github,         user_url: "https://github.com/wulffern/rply_bias_sky130nm" }
@@ -44,7 +46,7 @@ minima:
 # Build settings
 markdown: kramdown
 
-remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
   - jemoji
