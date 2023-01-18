@@ -14,7 +14,7 @@ From 2021 I've been teaching courses at NTNU.
 
 ## [Design Of Integrated Circuits](https://www.ntnu.edu/studies/courses/TFE4152)
 
-I only tought this course for one semester while the professor was on sabatical
+I only lectured this course for one semester while the professor was on sabatical
 
-- [dic2021](https://github.com/wulffern/dic2021)
+- [dic2021](/dic2021)
 
