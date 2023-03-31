@@ -23,6 +23,7 @@ down with a book to read about programming, and expect that you will learn progr
 - Take your time to write a verification plan. And stick to it. Without sufficient simulation your circuit will not work.
 
 ## Emacs
+
 | Commands | What |
 | -------  | ---- |
 | auto-fill-mode | Disables line wrapping|

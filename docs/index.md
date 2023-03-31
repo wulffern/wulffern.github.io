@@ -13,15 +13,14 @@ layout: home
 - Love talking in front of a crowd, especially on electronics
 - Love electronics, especially anything to do with analog integrated
   circuit design or radio design
-- Love the scientific method, and anything that can be proven to be
-  true
+- Love the [scientific method](https://en.wikipedia.org/wiki/Scientific_method)
 - Love [ski mountaineering](/assets/ski.png)
 - Love [trail running](/assets/trail.png)
 - Love bouldering, when I'm not running or skiing
 - Don't mind religious people. People have the right to believe
-  whatever they want for the things that can't be proven. As long as it does not adversely affect others
+  whatever they want for the things that can not be covered by the [scientific method](https://en.wikipedia.org/wiki/Scientific_method). As long as it does not adversely affect others.
 - Not a fan of nonsense, for example
-  homeopathy, anti-vax, flat earth, ghosts, alternative medicine
+  homeopathy, anti-vax, flat earth, ghosts, alternative medicine.
 
 ## Beliefs
 - All humans have equal worth. Best exemplified in the Norwegian poem
