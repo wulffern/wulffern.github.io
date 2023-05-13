@@ -7,6 +7,7 @@ layout: home
 
 ## Facts about me
 - Love my three kids
+- I often wake up with ideas. Sometimes I write [ideas](https://analogicus.com/ideas) down
 - Love food, especially making food
 - Love [programming](https://github.com/wulffern)
 - Love coffee
@@ -21,6 +22,7 @@ layout: home
   whatever they want for the things that can not be covered by the [scientific method](https://en.wikipedia.org/wiki/Scientific_method). As long as it does not adversely affect others.
 - Not a fan of nonsense, for example
   homeopathy, anti-vax, flat earth, ghosts, alternative medicine.
+
 
 ## Beliefs
 - All humans have equal worth. Best exemplified in the Norwegian poem
