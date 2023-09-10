@@ -43,6 +43,10 @@ minima:
     - { platform: youtube,        user_url: "https://www.youtube.com/@analogicus" }
 
 
+collections:
+  legacy:
+    output: true
+
 # Build settings
 markdown: kramdown
 
