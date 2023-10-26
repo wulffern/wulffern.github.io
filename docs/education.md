@@ -8,6 +8,7 @@ From 2021 I've been teaching courses at NTNU.
 
 ## [Advanced Integrated Circuits](https://www.ntnu.edu/studies/courses/TFE4188)
 
+- [aic2024](/aic2024)
 - [aic2023](/aic2023)
 - [aic2022](https://github.com/wulffern/aic2022)
 
