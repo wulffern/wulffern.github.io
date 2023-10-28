@@ -7,7 +7,7 @@ layout: home
 
 ## Facts about me
 - Love my three kids
-- I often wake up with ideas. Sometimes I write [ideas](https://analogicus.com/ideas) 
+- I often wake up with [ideas](https://analogicus.com/ideas) 
 - Love [programming](https://github.com/wulffern)
 - Love coffee
 - Love talking in front of a crowd, especially on electronics
