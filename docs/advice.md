@@ -298,7 +298,7 @@ used.
 
 When measuring your ADC, if you have spurs that are not harmonics in your FFT
 you should try to change the clock frequency (sampling frequency) to see if the
-spurs change frequency as well. If they do they may be aliased interference from
+spurs change frequency as well. If they do, they may be aliased interference from
 nearby RF transmitters.
 
 
