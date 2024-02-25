@@ -11,5 +11,5 @@ posts:
 	cd lectures; cat ../images.txt |xargs git add -f
 
 links:
-	gh repo list --json name > repos.json
+	gh repo list --limit 300 --json name > repos.json
 	python3 links.py
