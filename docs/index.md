@@ -7,7 +7,7 @@ layout: home
 
 ## Facts about me
 - Love my three kids
-- I often wake up with ideas. Sometimes I write [ideas](https://analogicus.com/ideas) 
+- I often wake up with [ideas](https://analogicus.com/ideas) 
 - Love [programming](https://github.com/wulffern)
 - Love coffee
 - Love talking in front of a crowd, especially on electronics
@@ -16,7 +16,7 @@ layout: home
 - Love the [scientific method](https://en.wikipedia.org/wiki/Scientific_method)
 - Love [ski mountaineering](/assets/ski.png)
 - Love [trail running](/assets/trail.png)
-- Love bouldering, when I'm not running or skiing
+- Love [bouldering](https://www.instagram.com/tv/CaiCOYzgDev/?igshid=MzRlODBiNWFlZA==) when I'm not running or skiing
 - Don't mind religious people. People have the right to believe
   whatever they want for the things that can not be covered by the [scientific method](https://en.wikipedia.org/wiki/Scientific_method). As long as it does not adversely affect others.
 - Not a fan of nonsense, for example
