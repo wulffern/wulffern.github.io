@@ -9,3 +9,7 @@ jstart:
 posts:
 	./genposts.sh
 	cd lectures; cat ../images.txt |xargs git add -f
+
+links:
+	gh repo list --json name > repos.json
+	python3 links.py
