@@ -30,7 +30,7 @@ show_excerpts: false
 
 future: true
 
-remote_theme: jekyll/minima
+remote_theme: wulffern/minima
 
 minima:
   skin: auto
