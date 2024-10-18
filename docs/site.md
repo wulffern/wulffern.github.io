@@ -13,9 +13,12 @@ An overview of all sites on analogicus
  - [compile_eda_mac](https://analogicus.com/compile_eda_mac) - eda   I want to simplify analog integrated circuit design.
  - [dic2021](https://analogicus.com/dic2021) - dic2021   Notes from lectures on Design of Integrated Circuits
  - [ideas](https://analogicus.com/ideas) - Why   Ideas
+ - [jnw_spice_sky130A](https://analogicus.com/jnw_spice_sky130A) - Sky130nm example
  - [magic](https://analogicus.com/magic) - magic   Magic documentation
  - [markdown-cv](https://analogicus.com/markdown-cv) -   Carsten Wulff    CV
- - [rply_bias_sky130nm](https://analogicus.com/rply_bias_sky130nm) - RPLY_BIAS_SKY130NM   A PTAT current source
+ - [rply_bias_sky130nm](https://analogicus.com/rply_bias_sky130nm) - RPLY_BIAS_SKY130NM   The answer is 42
  - [rply_ex0_sky130nm](https://analogicus.com/rply_ex0_sky130nm) - Analog design flow with Sky130nm   Tutorial and Tools
+ - [sun_pll_sky130nm](https://analogicus.com/sun_pll_sky130nm) - SUN_PLL_SKY130NM   A bad PLL
+ - [sun_sar9b_sky130nm](https://analogicus.com/sun_sar9b_sky130nm) - SUN_SAR9B_SKY130NM   9 bit and 8 bit SAR ADC
  - [tt06-sar](https://analogicus.com/tt06-sar) - Redirecting to GDS Viewer...
  - [wulffern.github.io](https://analogicus.com/wulffern.github.io) - Home   Carsten Wulff
